@@ -44,6 +44,7 @@ src/
 | 3 | Max Subarray Sum (Brute Force) | [MaxSubarraySum_BruteForce.java](src/arrays/medium/MaxSubarraySum_BruteForce.java) |
 | 4 | Max Subarray Sum (Kadane's) | [MaxSubarraySum_Kadane.java](src/arrays/medium/MaxSubarraySum_Kadane.java) |
 | 5 | Stock Buy And Sell | [StockBuySell.java](src/arrays/medium/StockBuySell.java) |
+| 6 | Rearrange Array Elements by Sign | [RearrangeArrayElementsBySign.java](src/arrays/medium/RearrangeArrayElementsBySign.java) |
 
 ### Recursion
 | # | Problem | File |
